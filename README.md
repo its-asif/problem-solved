@@ -6,7 +6,7 @@ Welcome to my coding journey! 👨‍💻 Below, you'll find links to my profile
 
 - **Codeforces Profile:** [pinik](https://codeforces.com/profile/pinik)
 - **Max. Rating:** 1246 (Pupil)
-- **Solved Problems:** 400+
+- **Solved Problems:** 430+
 - **Contests:** 42
 
 ## VJudge
@@ -17,7 +17,7 @@ Welcome to my coding journey! 👨‍💻 Below, you'll find links to my profile
 ## LeetCode
 
 - **LeetCode Profile:** [asifhossain](https://leetcode.com/asifhossain/)
-- **Problems Solved:** 20+
+- **Problems Solved:** 30+
 
 ## CSES
 
@@ -26,5 +26,5 @@ Welcome to my coding journey! 👨‍💻 Below, you'll find links to my profile
 ## Coding Ninja
 
 - **Coding Ninja Profile:** [asifhossian](https://www.codingninjas.com/studio/profile/asifhossain)
-- **Problems Solved:** 15+
+- **Problems Solved:** 20+
 
