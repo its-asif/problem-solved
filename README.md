@@ -17,7 +17,7 @@ Welcome to my coding journey! 👨‍💻 Below, you'll find links to my profile
 ## LeetCode
 
 - **LeetCode Profile:** [asifhossain](https://leetcode.com/asifhossain/)
-- **Problems Solved:** 130+
+- **Problems Solved:** 150+
 
 ## CSES
 
